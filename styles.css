@@ -1,0 +1,31 @@
+body{
+    background-color:lightblue ; 
+    font-size: 15px;
+}
+h1{
+    text-align: center;
+    color: azure;
+    font-weight: normal;
+}
+p{
+    font-size: 20px;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+#club{
+    text-align: center;
+    color: rebeccapurple;
+}
+.box{
+    color: red;
+    font-size: 170%;
+}
+p.center{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    text-align: center;
+    color: black;
+}
